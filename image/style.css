@@ -1,0 +1,72 @@
+h1
+{
+    text-align:center; 
+    font-family:cursive; 
+}
+.grow
+{
+    display:inline-block;
+    padding:3px 15px;
+    margin-left:500px;
+    background-color:yellow;
+    font-family:cursive; 
+}
+img{
+    width:60vw;
+    height:80vh;
+    margin-left:200px;;
+}
+.bgcolor
+{
+    background-color:gray;
+    width:200vh;
+    height:150vh;
+
+}
+.tree
+{
+  text-align:center;
+  font-family:cursive;  
+}
+.whygrow
+{
+ margin-left:100px;
+ font-size: medium;
+ font-family:cursive; 
+ padding:5px,2px; 
+ 
+}
+.quotes
+{
+background-color:lightgrey;
+display:inline-block;
+margin:60px 40px;
+display:inline-block;
+font-size:large;
+font-family:cursive;
+}
+footer{
+ background-color:yellow; 
+ margin:60px 40px;
+ font-size:1.5em;
+ font-family:cursive;
+ padding:5px 2px;
+ text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+font-size:1.2em;
+font-family:cursive;
+
+}
